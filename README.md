@@ -8,6 +8,7 @@ Exposed!
 
 Checker doesn't use a external.
 
-I'm not finishing or adding features.
+Not made by me.
 
-The reason for this is because a wise man once said "They can open the door for you, but you have to enter it alone". 
+
+AutoClaim Anth!
